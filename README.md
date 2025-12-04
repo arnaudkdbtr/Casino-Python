@@ -221,5 +221,4 @@ casino-python/
 ## 👨‍💻 Auteur
 
 - Arnaud KINDBEITER
-- 
 ---
